@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average 10 test scores", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "average specific number of scores", "average specific number of scores\average specific number of scores.csproj", "{7209D843-0C4B-4650-8D08-BEDC5CE86528}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "non-specific number of scores", "non-specific number of scores\non-specific number of scores.csproj", "{9775AFC3-BEB0-4220-8937-AAA2E1CF271E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7209D843-0C4B-4650-8D08-BEDC5CE86528}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7209D843-0C4B-4650-8D08-BEDC5CE86528}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7209D843-0C4B-4650-8D08-BEDC5CE86528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9775AFC3-BEB0-4220-8937-AAA2E1CF271E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9775AFC3-BEB0-4220-8937-AAA2E1CF271E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9775AFC3-BEB0-4220-8937-AAA2E1CF271E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9775AFC3-BEB0-4220-8937-AAA2E1CF271E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
